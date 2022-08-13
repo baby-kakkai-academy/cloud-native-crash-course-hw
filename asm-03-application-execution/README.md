@@ -19,7 +19,7 @@ Using cargo run is more convenient than having to remember to run cargo build an
 
 - `$ node <index.js>`
 
-- `npm run`
+- `$ npm run`
 
 3. go
 
@@ -64,70 +64,70 @@ Using cargo run is more convenient than having to remember to run cargo build an
 
 12. deno
 
-`$ deno run main.ts`
+- `$ deno run main.ts`
 
 13. bun
 
-`$ bun run main.js`
+- `$ bun run main.js`
 
 14. python
 
-`$ python main.py`
+- `$ python main.py`
 
 15. R
 
-
+- `$ `
 
 16. Carbon
 
-`$ bazel run //explorer -- ./explorer/testdata/print/format_only.carbon`
+- `$ bazel run //explorer -- ./explorer/testdata/print/format_only.carbon`
 
 17. Erlang
 
-`% erl -compile Module1...ModuleN && erl -make && erlc <flags> File1.erl...FileN.erl`
+- `% erl -compile Module1...ModuleN && erl -make && erlc <flags> File1.erl...FileN.erl`
 
 18. Kotlin
 
-`$ kotlinc main.kt -d main.jar`
+- `$ kotlinc main.kt -d main.jar`
 
 19. Flutter
 
-`$ lib/main.dart`
+- `$ lib/main.dart`
 
 20. ObjectiveC
 
-`$ gcc main.m`
+- `$ gcc main.m`
 
 21. WebAssembly
 
-
+- `$ `
 
 22. SQL
 
-`$ dbisql -c "DSN=SQL Anywhere 12 Demo" myscript.sql`
+- `$ dbisql -c "DSN=SQL Anywhere 12 Demo" myscript.sql`
 Runs the SQL script file myscript.sql against the SQL Anywhere sample database.
 
 23. Shell
 
-- `./main.sh`
+- `$ ./main.sh`
 
 24. Assembly
 
-- 
+- `$ `
 
 25. Switft
 
 Use the swift run command to build and run the executable:
 
-`swift run main.swift`
+- `$ swift run main.swift`
 
 Also compile the package by running the swift build command and then run the binary from .build directory:
 
-`swift build && .build/x86_64-apple-macosx10.10/debug/Hello`
+- `$ swift build && .build/x86_64-apple-macosx10.10/debug/Hello`
 
 26. Lua
 
-`$ ./main.lua`
+- `$ ./main.lua`
 
 Section 2
 ---
@@ -144,16 +144,43 @@ Section 2
 - `$ javac main.java && java main`
 
 2. PHP
+
+- `$ php main.php`
+
 3. Python
+
+- `$ python main.py`
+
 4. JavaScript
 
 - `$ node <index.js>`
 
 5. Swift
+
+Use the swift run command to build and run the executable:
+
+- `$ swift run main.swift`
+
+Also compile the package by running the swift build command and then run the binary from .build directory:
+
+- `$ swift build && .build/x86_64-apple-macosx10.10/debug/Hello`
+
 6. Kotlin
+
+- `$ kotlinc main.kt -d main.jar`
+
 7. Ruby
+
+- `$ ruby main.rb`
+
 8. TypeScript
+
+- `$ tsc main.ts`
+
 9. WebAssembly
+
+- `$ `
+
 10. C#
 
 - `dotnet run`
@@ -161,12 +188,31 @@ Section 2
 - `dotnet "main.dll"`
 
 11. Deno
-12. C++
+
+- `$ deno run main.ts`
+
 13. Bun
+
+- `$ bun run main.js`
+
 14. Lua
+
+- `$ ./main.lua`
+
 15. SQL
+
+- `$ dbisql -c "DSN=SQL Anywhere 12 Demo" myscript.sql`
+Runs the SQL script file myscript.sql against the SQL Anywhere sample database.
+
 16. Flutter
+
+- `$ lib/main.dart`
+
 17. Rust
+
+- `$ ./target/debug/hello_cargo or .\target\debug\hello_cargo.exe on Windows`
+
+- `$ cargo run main.rs`
 
 - Mobile application Languages
 
@@ -190,8 +236,7 @@ Section 2
 9. Scalar
 10. Erlang
 
-
-#### References
+#### References:
 
 - https://www.tutorialspoint.com/erlang/erlang_overview.htm\
 - https://www.erlang.org/doc/reference_manual/typespec.html#type-information-in-record-declarations
