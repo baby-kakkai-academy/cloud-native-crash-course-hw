@@ -189,3 +189,15 @@ Section 2
 8. Assembly
 9. Scalar
 10. Erlang
+
+
+#### References
+
+- https://www.tutorialspoint.com/erlang/erlang_overview.htm\
+- https://www.erlang.org/doc/reference_manual/typespec.html#type-information-in-record-declarations
+- https://github.com/carbon-language/carbon-lang
+- https://infocenter.sybase.com/help/index.jsp?topic=/com.sybase.help.sqlanywhere.12.0.1/dbusage/load-s-4696303.html
+- https://fireart.studio/blog/top-most-popular-programming-languages-for-mobile-app-development/
+- https://becominghuman.ai/top-10-best-web-application-development-languages-8204aad91bc4
+- https://docs.microsoft.com/en-us/dotnet/core/docker/build-container?tabs=windows
+- https://harperdb.io/blog/is-bun-the-new-node-js/
