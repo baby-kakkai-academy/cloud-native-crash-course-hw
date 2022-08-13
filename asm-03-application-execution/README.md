@@ -1,4 +1,4 @@
-# Homework 3 : Application Executable 
+# Homework 3 : Application Executable
 
 This homework will learn about programming languages and can be categorize which types are web application, mobile application or command line languages.  
 
@@ -16,10 +16,29 @@ Section 1
 Using cargo run is more convenient than having to remember to run cargo build and then use the whole path to the binary, so most developers use cargo run.
 
 2. nodejs (javascript)
+
+- `$ node <index.js>`
+
 3. go
+
+- `$ go run main.go`
+
 4. java
+
+- `$ java -jar jarfile.jar`
+
+- `$ javac main.java && java main`
+
 5. C#
+
+- `dotnet run`
+
+- `dotnet "main.dll"`
+
 6. Scala
+
+- ``
+
 7. Haskell
 8. C
 9. php
@@ -44,24 +63,37 @@ Using cargo run is more convenient than having to remember to run cargo build an
 Section 2
 ---
 
-ให้ทำการเลือกภาษาด้านบน ว่าภาษาไหนสามารถนำมาทำ Web Application อย่างน้อย 15 ภาษา, ทำอย่างน้อย Mobile Applicaiton ได้ 4 ภาษา, Command Line อย่างน้อย 10 ภาษา พร้อมทั้งบอกคำสั่งที่ทำให้ Appliacation ทำงาน (วิธีการรัน / วิธี execute)
+ให้ทำการเลือกภาษาด้านบน ว่าภาษาไหนสามารถนำมาทำ Web Application อย่างน้อย 15 ภาษา, Mobile Applicaiton ได้อย่างน้อย 4 ภาษา, Command Line อย่างน้อย 10 ภาษา พร้อมทั้งบอกคำสั่งที่ทำให้ Appliacation ทำงาน (วิธีการรัน / วิธี execute)
 -
 
 - Web Application Languages
 
 1. Java
+
+- `$ java -jar jarfile.jar`
+
+- `$ javac main.java && java main`
+
 2. PHP
 3. Python
 4. JavaScript
+
+- `$ node <index.js>`
+
 5. Swift
 6. Kotlin
 7. Ruby
 8. TypeScript
 9. Perl
 10. C#
+
+- `dotnet run`
+
+- `dotnet "main.dll"`
+
 11. Deno
 12. C++
-13. .NET
+13. Clojure
 14. Angular
 15. SQL
 16. HTML
