@@ -1,6 +1,6 @@
 # Homework 3 : Application Executable 
 
-note .....
+This homework will learn about programming languages and can be categorize which types are web application, mobile application or command line languages.  
 
 Section 1
 ---
@@ -9,7 +9,7 @@ Section 1
 
 1. rust
 
-- `$ ./target/debug/hello_cargo # or .\target\debug\hello_cargo.exe on Windows`
+- `$ ./target/debug/hello_cargo or .\target\debug\hello_cargo.exe on Windows`
 
 - `$ cargo run`
 
@@ -19,7 +19,7 @@ Using cargo run is more convenient than having to remember to run cargo build an
 3. go
 4. java
 5. C#
-6. Scalar
+6. Scala
 7. Haskell
 8. C
 9. php
@@ -60,6 +60,11 @@ Section 2
 9. Perl
 10. C#
 11. Deno
+12. C++
+13. .NET
+14. Angular
+15. SQL
+16. HTML
 
 - Mobile application Languages
 
@@ -70,6 +75,14 @@ Section 2
 5. C / C ++ : Android
 6. Java : Android
 
-- Command Line
+- Command Line Languages
 
 1. Shell
+2. Haskell
+3. SQL
+4. Python
+5. Ruby
+6. Perl
+8. Beanshell
+9. Scala
+10. Julia
