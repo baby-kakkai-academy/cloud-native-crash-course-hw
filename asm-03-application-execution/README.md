@@ -11,13 +11,15 @@ Section 1
 
 - `$ ./target/debug/hello_cargo or .\target\debug\hello_cargo.exe on Windows`
 
-- `$ cargo run`
+- `$ cargo run main.rs`
 
 Using cargo run is more convenient than having to remember to run cargo build and then use the whole path to the binary, so most developers use cargo run.
 
 2. nodejs (javascript)
 
 - `$ node <index.js>`
+
+- `npm run`
 
 3. go
 
@@ -31,34 +33,101 @@ Using cargo run is more convenient than having to remember to run cargo build an
 
 5. C#
 
-- `dotnet run`
+- `$ dotnet run`
 
-- `dotnet "main.dll"`
+- `$ dotnet "main.dll"`
 
-6. Scala
+6. Scalar
 
-- ``
+- `$ java -jar main.jar`
+สกุล File คือ .sbt / .jar  
 
 7. Haskell
+
+- `$ runhaskell main.hs`
+
 8. C
+
+- `$ gcc main.c`
+
 9. php
+
+- `$ php main.php`
+
 10. ruby
+
+- `$ ruby main.rb`
+
 11. Typescript (javascript)
+
+- `$ tsc main.ts`
+
 12. deno
+
+`$ deno run main.ts`
+
 13. bun
+
+`$ bun run main.js`
+
 14. python
+
+`$ python main.py`
+
 15. R
+
+
+
 16. Carbon
+
+`$ bazel run //explorer -- ./explorer/testdata/print/format_only.carbon`
+
 17. Erlang
+
+`% erl -compile Module1...ModuleN && erl -make && erlc <flags> File1.erl...FileN.erl`
+
 18. Kotlin
+
+`$ kotlinc main.kt -d main.jar`
+
 19. Flutter
+
+`$ lib/main.dart`
+
 20. ObjectiveC
+
+`$ gcc main.m`
+
 21. WebAssembly
+
+
+
 22. SQL
+
+`$ dbisql -c "DSN=SQL Anywhere 12 Demo" myscript.sql`
+Runs the SQL script file myscript.sql against the SQL Anywhere sample database.
+
 23. Shell
+
+- `./main.sh`
+
 24. Assembly
+
+- 
+
 25. Switft
+
+Use the swift run command to build and run the executable:
+
+`swift run main.swift`
+
+Also compile the package by running the swift build command and then run the binary from .build directory:
+
+`swift build && .build/x86_64-apple-macosx10.10/debug/Hello`
+
 26. Lua
+
+`$ ./main.lua`
 
 Section 2
 ---
@@ -84,7 +153,7 @@ Section 2
 6. Kotlin
 7. Ruby
 8. TypeScript
-9. Perl
+9. WebAssembly
 10. C#
 
 - `dotnet run`
@@ -93,10 +162,11 @@ Section 2
 
 11. Deno
 12. C++
-13. Clojure
-14. Angular
+13. Bun
+14. Lua
 15. SQL
-16. HTML
+16. Flutter
+17. Rust
 
 - Mobile application Languages
 
@@ -104,7 +174,8 @@ Section 2
 2. Objective-C : For writing iOS apps
 3. Swift : For writing iOS apps
 4. Python : Android
-5. C / C ++ : Android
+5. C : Android
+7. C ++ : Android
 6. Java : Android
 
 - Command Line Languages
@@ -114,7 +185,7 @@ Section 2
 3. SQL
 4. Python
 5. Ruby
-6. Perl
-8. Beanshell
-9. Scala
-10. Julia
+6. Lua
+8. Assembly
+9. Scalar
+10. Erlang
