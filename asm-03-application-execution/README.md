@@ -76,7 +76,7 @@ Using cargo run is more convenient than having to remember to run cargo build an
 
 15. R
 
-- `$ `
+- `$ rscript file.r`
 
 16. Carbon
 
@@ -100,7 +100,11 @@ Using cargo run is more convenient than having to remember to run cargo build an
 
 21. WebAssembly
 
-- `$ `
+It's depended on original written language before. WebAssembly is compiling low-level language to become compatible with web-browser. The .wasm is already binary code.
+
+- `$ C++ => $ emcc [file].c => output => [file].wasm`
+- `$ Rust => $ wasm pack build [file].rs => output => [file].wasm`
+
 
 22. SQL
 
@@ -113,7 +117,8 @@ Runs the SQL script file myscript.sql against the SQL Anywhere sample database.
 
 24. Assembly
 
-- `$ `
+- `$ nasm -f [os] assembly.asm`
+Example: $ nasm -f win32 assembly.asm
 
 25. Switft
 
