@@ -103,8 +103,8 @@ Using cargo run is more convenient than having to remember to run cargo build an
 It's depended on original written language before. WebAssembly is compiling low-level language to become compatible with web-browser. The .wasm is already binary code.
 
 - `$ C++ => $ emcc [file].c => output => [file].wasm`
-- `$ Rust => $ wasm pack build [file].rs => output => [file].wasm`
 
+- `$ Rust => $ wasm pack build [file].rs => output => [file].wasm`
 
 22. SQL
 
@@ -140,7 +140,7 @@ Section 2
 ให้ทำการเลือกภาษาด้านบน ว่าภาษาไหนสามารถนำมาทำ Web Application อย่างน้อย 15 ภาษา, Mobile Applicaiton ได้อย่างน้อย 4 ภาษา, Command Line อย่างน้อย 10 ภาษา พร้อมทั้งบอกคำสั่งที่ทำให้ Appliacation ทำงาน (วิธีการรัน / วิธี execute)
 -
 
-- Web Application Languages
+#### Web Application Languages
 
 1. Java
 
@@ -184,7 +184,11 @@ Also compile the package by running the swift build command and then run the bin
 
 9. WebAssembly
 
-- `$ `
+It's depended on original written language before. WebAssembly is compiling low-level language to become compatible with web-browser. The .wasm is already binary code.
+
+- `$ C++ => $ emcc [file].c => output => [file].wasm`
+
+- `$ Rust => $ wasm pack build [file].rs => output => [file].wasm`
 
 10. C#
 
@@ -219,27 +223,84 @@ Runs the SQL script file myscript.sql against the SQL Anywhere sample database.
 
 - `$ cargo run main.rs`
 
-- Mobile application Languages
+#### Mobile application Languages
 
 1. Flutter
+
+- `$ lib/main.dart`
+
 2. Objective-C : For writing iOS apps
+
+- `$ gcc main.m`
+
 3. Swift : For writing iOS apps
+
+Use the swift run command to build and run the executable:
+
+- `$ swift run main.swift`
+
+Also compile the package by running the swift build command and then run the binary from .build directory:
+
+- `$ swift build && .build/x86_64-apple-macosx10.10/debug/Hello`
+
 4. Python : Android
+
+- `$ python main.py`
+
 5. C : Android
-7. C ++ : Android
+
+- `$ gcc main.c`
+
 6. Java : Android
 
-- Command Line Languages
+- `$ java -jar jarfile.jar`
+
+- `$ javac main.java && java main`
+
+#### Command Line Languages
 
 1. Shell
+
+- `$ ./main.sh`
+
 2. Haskell
+
+- `$ runhaskell main.hs`
+
 3. SQL
+
+- `$ dbisql -c "DSN=SQL Anywhere 12 Demo" myscript.sql`
+Runs the SQL script file myscript.sql against the SQL Anywhere sample database.
+
 4. Python
+
+- `$ python main.py`
+
 5. Ruby
+
+- `$ ruby main.rb`
+
 6. Lua
-8. Assembly
-9. Scalar
-10. Erlang
+
+- `$ ./main.lua`
+
+7. Assembly
+
+- `$ nasm -f [os] assembly.asm`
+Example: $ nasm -f win32 assembly.asm
+
+8. Scalar
+
+- `$ java -jar main.jar`
+สกุล File คือ .sbt / .jar  
+
+9. Erlang
+
+- `% erl -compile Module1...ModuleN && erl -make && erlc <flags> File1.erl...FileN.erl`
+
+10. Rust
+
+- `cargo run main.rs`
 
 #### References:
 
