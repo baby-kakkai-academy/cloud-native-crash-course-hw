@@ -1,0 +1,5 @@
+/Users/beaubaby/Desktop/Desktop - beaubaby/Kakkai-General/tmp-springboot/App/bin/Release/net6.0/publish/dotnetweb
+/Users/beaubaby/Desktop/Desktop - beaubaby/Kakkai-General/tmp-springboot/App/bin/Release/net6.0/publish/dotnetweb.dll
+/Users/beaubaby/Desktop/Desktop - beaubaby/Kakkai-General/tmp-springboot/App/bin/Release/net6.0/publish/dotnetweb.deps.json
+/Users/beaubaby/Desktop/Desktop - beaubaby/Kakkai-General/tmp-springboot/App/bin/Release/net6.0/publish/dotnetweb.runtimeconfig.json
+/Users/beaubaby/Desktop/Desktop - beaubaby/Kakkai-General/tmp-springboot/App/bin/Release/net6.0/publish/dotnetweb.pdb

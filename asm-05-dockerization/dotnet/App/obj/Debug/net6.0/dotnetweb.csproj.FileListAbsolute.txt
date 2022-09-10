@@ -1,0 +1,15 @@
+/Users/beaubaby/Desktop/Desktop - beaubaby/Kakkai-General/tmp-springboot/App/bin/Debug/net6.0/dotnetweb
+/Users/beaubaby/Desktop/Desktop - beaubaby/Kakkai-General/tmp-springboot/App/bin/Debug/net6.0/dotnetweb.deps.json
+/Users/beaubaby/Desktop/Desktop - beaubaby/Kakkai-General/tmp-springboot/App/bin/Debug/net6.0/dotnetweb.runtimeconfig.json
+/Users/beaubaby/Desktop/Desktop - beaubaby/Kakkai-General/tmp-springboot/App/bin/Debug/net6.0/dotnetweb.dll
+/Users/beaubaby/Desktop/Desktop - beaubaby/Kakkai-General/tmp-springboot/App/bin/Debug/net6.0/ref/dotnetweb.dll
+/Users/beaubaby/Desktop/Desktop - beaubaby/Kakkai-General/tmp-springboot/App/bin/Debug/net6.0/dotnetweb.pdb
+/Users/beaubaby/Desktop/Desktop - beaubaby/Kakkai-General/tmp-springboot/App/obj/Debug/net6.0/dotnetweb.csproj.AssemblyReference.cache
+/Users/beaubaby/Desktop/Desktop - beaubaby/Kakkai-General/tmp-springboot/App/obj/Debug/net6.0/dotnetweb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beaubaby/Desktop/Desktop - beaubaby/Kakkai-General/tmp-springboot/App/obj/Debug/net6.0/dotnetweb.AssemblyInfoInputs.cache
+/Users/beaubaby/Desktop/Desktop - beaubaby/Kakkai-General/tmp-springboot/App/obj/Debug/net6.0/dotnetweb.AssemblyInfo.cs
+/Users/beaubaby/Desktop/Desktop - beaubaby/Kakkai-General/tmp-springboot/App/obj/Debug/net6.0/dotnetweb.csproj.CoreCompileInputs.cache
+/Users/beaubaby/Desktop/Desktop - beaubaby/Kakkai-General/tmp-springboot/App/obj/Debug/net6.0/dotnetweb.dll
+/Users/beaubaby/Desktop/Desktop - beaubaby/Kakkai-General/tmp-springboot/App/obj/Debug/net6.0/ref/dotnetweb.dll
+/Users/beaubaby/Desktop/Desktop - beaubaby/Kakkai-General/tmp-springboot/App/obj/Debug/net6.0/dotnetweb.pdb
+/Users/beaubaby/Desktop/Desktop - beaubaby/Kakkai-General/tmp-springboot/App/obj/Debug/net6.0/dotnetweb.genruntimeconfig.cache
